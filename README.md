@@ -21,7 +21,7 @@ Systeminfo can be installed by using following bash command:
 4. Type the following commands: `export FLASK_APP=run.py` and then `python -m flask run
 
 You should see:
-[[https://www.github.com/thanders/flask_platform/images/flask_platform_on_ec2.png |alt=octocat]]
+![alt tag](https://www.github.com/thanders/flask_platform/images/flask_platform_on_ec2.png)
 
 
 ## How to uninstall flask_platform?
