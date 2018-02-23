@@ -16,7 +16,7 @@ Systeminfo can be installed by using following bash command:
 
 1. Install all required packages.
 2. Clone the flask_platform Github repository:
-`git clone https://github.com/thanders/flask_platform.git`
+`git clone https://raw.github.com/thanders/flask_platform.git`
 3. Change your machine's present working directory (PWD) to flask_platform folder.
 4. Type the following commands: `export FLASK_APP=run.py` and then `python -m flask run
 
