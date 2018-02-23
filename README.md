@@ -23,7 +23,7 @@ Systeminfo can be installed by using following bash command:
 You should see:
 ![Flask_platform running](https://github.com/thanders/flask_platform/images/flask_platform_on_ec2.png "Flask platform_running")
 
-`## How to uninstall flask_platform?
+## How to uninstall flask_platform?
 Delete the flask_platform directory and the installed required packages:
 Type `rm -rf flask_platform` when your PWD is the parent folder
 
